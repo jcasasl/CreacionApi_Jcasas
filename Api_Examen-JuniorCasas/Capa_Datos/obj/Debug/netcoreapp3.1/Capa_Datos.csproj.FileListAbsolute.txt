@@ -1,0 +1,10 @@
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.deps.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfoInputs.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfo.cs
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.pdb
